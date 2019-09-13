@@ -68,10 +68,10 @@ var_dump($response);
 
 
 /*
-$apiToken = "my_bot_api_token";
+$apiToken = "853988027:AAF4UytWGO1ynk3pUZ-2cif53Xl3dCp3YZM";
 
 $data = [
-    'chat_id' => '@my_channel_name',
+    'chat_id' => '@Blacklistcanna',
     'text' => 'Hello world!'
 ];
 
